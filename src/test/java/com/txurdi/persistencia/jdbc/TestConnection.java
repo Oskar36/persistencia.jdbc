@@ -10,7 +10,7 @@ import java.sql.Statement;
 
 import org.junit.Test;
 
-import jdbc.Persona;
+import com.txurdi.persistencia.pojo.Persona;
 
 public class TestConnection {
 

@@ -1,4 +1,4 @@
-package jdbc;
+package com.txurdi.persistencia.pojo;
 
 import java.io.Serializable;
 
